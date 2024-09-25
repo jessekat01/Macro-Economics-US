@@ -1,9 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="uv44VIs7c4GZ7mSgYFgV">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W4M-j906Km49gb3UMfhw-2" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="53" y="67" width="744" height="60" as="geometry">
+            <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4M-j906Km49gb3UMfhw-3" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="99" y="186" width="698" height="60" as="geometry">
+            <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4M-j906Km49gb3UMfhw-4" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4M-j906Km49gb3UMfhw-3">
+          <mxGeometry x="5" y="2" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="W4M-j906Km49gb3UMfhw-5" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="186" width="744" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
