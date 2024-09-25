@@ -4,13 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W4M-j906Km49gb3UMfhw-2" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Client&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="53" y="67" width="744" height="47" as="geometry">
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-8" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Loan Request Process&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="53" y="153" width="744" height="430" as="geometry">
             <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wm8bFliEdi0egZuAkaJJ-8" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Loan Request Process&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="53" y="153" width="744" height="430" as="geometry">
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-10" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="wm8bFliEdi0egZuAkaJJ-8">
+          <mxGeometry x="71" y="51" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-11" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="wm8bFliEdi0egZuAkaJJ-8">
+          <mxGeometry x="84" y="47" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-13" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="wm8bFliEdi0egZuAkaJJ-8">
+          <mxGeometry x="79" y="57" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-14" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="wm8bFliEdi0egZuAkaJJ-8">
+          <mxGeometry x="106" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W4M-j906Km49gb3UMfhw-2" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Client&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="53" y="67" width="744" height="47" as="geometry">
             <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
