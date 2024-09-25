@@ -4,37 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W4M-j906Km49gb3UMfhw-2" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="53" y="67" width="744" height="37" as="geometry">
+        <mxCell id="W4M-j906Km49gb3UMfhw-2" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Client&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="53" y="67" width="744" height="47" as="geometry">
             <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-3" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="77" y="150" width="720" height="100" as="geometry">
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-8" value="&lt;font style=&quot;font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Loan Request Process&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="53" y="153" width="744" height="430" as="geometry">
             <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-4" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4M-j906Km49gb3UMfhw-3">
-          <mxGeometry x="5" y="2" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-5" value="loan request proces" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="53" y="150" width="744" height="433" as="geometry" />
-        </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-6" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="W4M-j906Km49gb3UMfhw-5">
-          <mxGeometry x="24" y="100" width="720" height="100" as="geometry">
-            <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
+        <mxCell id="wm8bFliEdi0egZuAkaJJ-9" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=0;startArrow=oval;startFill=1;snapToPoint=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152" y="114" as="sourcePoint" />
+            <mxPoint x="152" y="200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4M-j906Km49gb3UMfhw-6">
-          <mxGeometry x="5" y="2" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-8" value="client" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="W4M-j906Km49gb3UMfhw-5">
-          <mxGeometry x="24" y="253" width="720" height="100" as="geometry">
-            <mxRectangle x="140" y="160" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W4M-j906Km49gb3UMfhw-9" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4M-j906Km49gb3UMfhw-8">
-          <mxGeometry x="5" y="2" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
